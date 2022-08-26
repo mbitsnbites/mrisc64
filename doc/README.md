@@ -1,4 +1,4 @@
-# MRIS64 logo
+# MRISC64 logo
 
 ![logo](mrisc64-logo.png)
 
