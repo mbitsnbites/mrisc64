@@ -21,7 +21,10 @@ MRISC64 is expected to be almost identical to MRISC32 (including instructions an
 
 ## Required modifications
 
-There are mainly two things that need to be modified to work better with a 64-bit machine:
+There are mainly three things that need to be modified to work better with a 64-bit machine:
 
 * Encoding and handling of immediate values.
 * The `SHUF` instruction.
+* Introduce widening operations (especially 32 *op* 32 → 64).
+
+See [issues](https://github.com/mbitsnbites/mrisc64/issues) for more details.
