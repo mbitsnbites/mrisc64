@@ -1,3 +1,5 @@
+## This repo has moved to: https://gitlab.com/mbitsnbites/mrisc64
+
 ![MRISC64](doc/mrisc64-logo.png)
 
 MRISC64 is the planned 64-bit evolution of [MRISC32](https://github.com/mrisc32), an open source RISC/Vector ISA.
